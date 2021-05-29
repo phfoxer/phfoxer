@@ -6,6 +6,7 @@ Can you follow me on [LinkedIn](https://www.linkedin.com/in/paulo-henrique-santo
 ## Skills
 
 **Product**: PO and PM
+
 **Dev**:  C#, Angular, React, PHP, Java
 
 ![dashboard](https://lucsoninfotech.com/wp-content/uploads/2020/12/custom-erp-software-development.gif?raw=true)
