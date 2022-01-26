@@ -5,7 +5,7 @@ Can you follow me on [LinkedIn](https://www.linkedin.com/in/paulo-henrique-santo
 
 ## Skills
 
-**Product**: Front-end Specialist
+**Front-end Specialist**
 
 **Dev**:  C#, Angular, React, PHP, Java
 
